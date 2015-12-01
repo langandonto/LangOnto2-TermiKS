@@ -1,0 +1,44 @@
+html {
+  font-size: 14px
+}
+
+body {
+  background: #fff;
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-weight: 400;
+  line-height: 20px;
+  color: #444
+}
+
+section h2 {
+  color: #148c07;
+}
+
+.notitle {
+color: #444
+}
+
+h1, h2, h3 {
+  margin-left: 2em;
+  margin-right: 2em;
+}
+
+a {
+  color: #07d;
+  text-decoration: none;
+  cursor: pointer
+}
+
+a:hover {
+  color: #059;
+  text-decoration: underline
+}
+
+em {
+  color: #d05
+}
+
+.past-deadline {
+  color: red;
+  text-decoration: line-through;
+}
